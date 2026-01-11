@@ -273,7 +273,7 @@ section .location {
   margin: 0;
 }
 
-.main-summary p > img {
+p > img {
   vertical-align: middle;
   height: 12px;
   margin-bottom: 2px;
